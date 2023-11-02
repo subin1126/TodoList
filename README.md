@@ -2,3 +2,7 @@
 사용 : React, javaScript, fullCalendar 라이브러리, google api (공휴일 연동), css
 
 
+<p align='center'>
+  <img src='https://github.com/subin1126/TodoList/assets/137139810/f63683ae-d13f-4e5c-97db-58b74a74b182'>
+</p>
+
